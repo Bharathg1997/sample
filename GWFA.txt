@@ -49,11 +49,3 @@ jobs:
          registry: ghcr.io/${{ env.IMAGE_REGISTRY }}
          username: ${{ env.IMAGE_REGISTRY_USER }}
          password: ${{ env.IMAGE_REGISTRY_PASSWORD }}
-      
-      
-        
-          
-          
-       
-      
-
